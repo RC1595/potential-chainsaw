@@ -1,0 +1,56 @@
+html {
+    background-color: aliceblue;
+    font-family: cursive;
+    scroll-behavior: smooth;
+}
+
+header {
+    background-color: aquamarine;
+    font-size: 1.2rem;
+}
+
+header > a {
+    border:solid mediumvioletred 1px;
+    background-color: aquamarine;
+    padding:inherit;
+
+}
+
+
+main {
+    width: 80vw;
+    margin-left: 20vw;
+}
+
+
+
+#logo {
+    width: 10%;
+    height: auto;
+}
+
+.column {
+    display: inline-block;
+    width: 19%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.column > h1 {
+    display: inline-block;
+}
+
+p {
+    margin:0px;
+    padding: 0px;
+}
+
+footer{
+    font-size: 1.6em;
+}
+
+footer > a {
+    padding-left: 78pt;
+    margin-left: 13pc;
+
+}
