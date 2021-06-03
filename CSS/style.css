@@ -6,13 +6,13 @@ html {
 
 header {
     background-color: aquamarine;
-    font-size: 1.2rem;
+    font-size: 1.7rem;
 }
 
 header > a {
     border:solid mediumvioletred 1px;
     background-color: aquamarine;
-    padding:inherit;
+    padding:.5vw;
 
 }
 
@@ -47,6 +47,8 @@ p {
 
 footer{
     font-size: 1.6em;
+    height: 15vh;
+    margin-top: 27px;
 }
 
 footer > a {
